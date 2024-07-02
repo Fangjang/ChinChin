@@ -1,2 +1,2 @@
 # ChinChin
- A discord server managment Bot made in C++
+A discord server management bot that helps in ur day to day discord chores.
